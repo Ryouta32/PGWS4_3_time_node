@@ -8,12 +8,13 @@
 
 ![結果画像3](result1_3.gif)
 
-![結果画像](result1.gif)
+[結果画像](https://github.com/Ryouta32/PGWS4_3_time_node/assets/90999621/38d97bbb-3efe-4855-97c4-c9a54ddf2a50)
 
-![シェーダグラフ](node_graph1.png)
+![シェーダーグラフ](https://github.com/Ryouta32/PGWS4_3_time_node/assets/90999621/af07760f-0474-4c24-b466-de4cab16e265)
+
 
 # 自分なりに変更した点
--
+-一つの画像から透過部分と非透過部分で異なる処理を行いました。
 -
 -
 
